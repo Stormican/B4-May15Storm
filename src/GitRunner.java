@@ -8,6 +8,7 @@ public class GitRunner {
 		System.out.println("Bug is fixed!");
 		// work ... work ... work...
 		System.out.println("High risk gui");
+		System.out.println("High risk gui works!");
 
 	}
 
